@@ -1,0 +1,1 @@
+from .creature_detector import CreatureDetector
